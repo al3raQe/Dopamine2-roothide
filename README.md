@@ -1,15 +1,14 @@
-# roothide Dopamine 2
+<p align="center">
+<img src=https://al3raqe.github.io/photo/header.png?raw=true) />
+</p>
 
-- Document: https://github.com/roothide/Developer
+<p align="center">
+<img src=https://al3raqe.github.io/photo/dopamine.png?raw=true) />
+</p>
 
-- Support: https://twitter.com/roothideDev
+#
+### [Download = V2.4.5 /  Beta18 / 11  May  2025 = للتحميل](https://github.com/al3raQe/Dopamine2-roothide/releases/download/Dopamine_RootHide/roothide-Dopamine-2.4.5.v18.tipa)
+### [Download = V2.4.5 /  Beta17 / 25 April 2025 = للتحميل](https://github.com/al3raQe/Dopamine2-roothide/releases/download/tipa/roothide-Dopamine2-v17.tipa)
 
-- Discord: https://discord.gg/ZvY2Yjw8GA
-
-
-# How To Build
-
-- [build your own tipa on github action](BUILD.md).
-
-- or ref to [.github/workflows/main.yml](.github/workflows/main.yml) if you want to build it on macOS.
-
+**Full Changelog**: https://github.com/al3raQe/Dopamine2-roothide/commits/Dopamine_RootHide
+#
